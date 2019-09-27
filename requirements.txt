@@ -1,0 +1,4 @@
+gitpython
+emoji
+colorama
+click
