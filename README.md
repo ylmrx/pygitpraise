@@ -28,3 +28,7 @@ Usage: gitpraise [OPTIONS] [FILES]...
     -r, --revision TEXT  specify a commit hash to praise back in time
     --help               Show this message and exit.
 ```
+
+## demo
+
+![screenshot](http://i.imgur.com/xhtsZfH.png)
