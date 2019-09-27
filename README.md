@@ -32,3 +32,7 @@ Usage: gitpraise [OPTIONS] [FILES]...
 ## demo
 
 ![screenshot](http://i.imgur.com/xhtsZfH.png)
+
+The insanely cool code shown in the screenshot is from `radare2`. Check it out here : https://rada.re/r/
+
+Huge kudos to pancake and every r2's committers.
